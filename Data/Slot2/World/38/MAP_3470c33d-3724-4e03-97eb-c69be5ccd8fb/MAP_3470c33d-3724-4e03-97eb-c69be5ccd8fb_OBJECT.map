@@ -1,0 +1,2378 @@
+[
+	{
+		"prefab": "29801f3f-44a6-44ed-a285-eb9b2453dde2",
+		"reference": "2177abe6-68e7-4c46-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": -32.41461,
+				"y": 8.026541,
+				"z": -2.9347
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "bd2f1b13-6462-4d8a-85c4-5740a73efc84",
+		"reference": "b3f95c75-b7de-49b1-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 55.48445,
+				"y": 7.990652,
+				"z": -4.950356
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "b8f7794f-77df-4c44-9b59-1375865eb715",
+		"reference": "8ec41981-0cf8-4bf3-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 21.67508,
+				"y": -16.70578,
+				"z": -2.233589
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "6a987283-e1fa-4360-a499-537cd6952073",
+		"reference": "7dd996c6-e603-4fc7-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 42.86525,
+				"y": -89.96978,
+				"z": -14.65461
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "6a987283-e1fa-4360-a499-537cd6952073",
+		"reference": "e5e78349-48a3-4455-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 32.94958,
+				"y": -89.9698,
+				"z": -16.1822
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "6a987283-e1fa-4360-a499-537cd6952073",
+		"reference": "359ab988-fd9f-4d6f-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 37.20879,
+				"y": -89.9698,
+				"z": -4.409149
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "6a987283-e1fa-4360-a499-537cd6952073",
+		"reference": "a9461d8b-ef35-4cc6-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 16.23503,
+				"y": -89.96978,
+				"z": -17.59093
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "6a987283-e1fa-4360-a499-537cd6952073",
+		"reference": "b44b2dbe-3b1f-47bc-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 24.33369,
+				"y": -89.96979,
+				"z": -9.04213
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "6a987283-e1fa-4360-a499-537cd6952073",
+		"reference": "c9ab2c17-b230-40e0-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 31.9791,
+				"y": -89.96979,
+				"z": -10.28338
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "6a987283-e1fa-4360-a499-537cd6952073",
+		"reference": "28364e6b-ca2f-4039-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 20.37697,
+				"y": -89.96979,
+				"z": -19.55817
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "6a987283-e1fa-4360-a499-537cd6952073",
+		"reference": "3f926765-babd-4b34-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 28.04844,
+				"y": -89.96979,
+				"z": -21.38864
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "6a987283-e1fa-4360-a499-537cd6952073",
+		"reference": "a840d33a-85b2-4db6-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 17.91354,
+				"y": -89.96979,
+				"z": -11.03376
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "6a987283-e1fa-4360-a499-537cd6952073",
+		"reference": "6c8caeef-cc42-4317-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 27.90208,
+				"y": -89.96979,
+				"z": -2.399284
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "6a987283-e1fa-4360-a499-537cd6952073",
+		"reference": "dd539dcb-cb80-40a3-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 22.40543,
+				"y": -89.96978,
+				"z": -4.242226
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "6a987283-e1fa-4360-a499-537cd6952073",
+		"reference": "cac933cf-1bbe-4ea4-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 8.702332,
+				"y": -89.96979,
+				"z": -19.13084
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "6a987283-e1fa-4360-a499-537cd6952073",
+		"reference": "c101ab74-6ec7-4c6f-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 9.801941,
+				"y": -89.96979,
+				"z": -13.46273
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "6a987283-e1fa-4360-a499-537cd6952073",
+		"reference": "9928a974-96f4-408d-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 13.73807,
+				"y": -89.96978,
+				"z": -9.042366
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "6a987283-e1fa-4360-a499-537cd6952073",
+		"reference": "c733c291-153f-4075-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 19.37675,
+				"y": -89.96979,
+				"z": -4.296974
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "6a987283-e1fa-4360-a499-537cd6952073",
+		"reference": "82160de7-1611-484c-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 34.11603,
+				"y": -89.96979,
+				"z": -7.270602
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "6a987283-e1fa-4360-a499-537cd6952073",
+		"reference": "621850cd-cd68-4f13-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 29.4274,
+				"y": -68.74688,
+				"z": -10.56202
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "6a987283-e1fa-4360-a499-537cd6952073",
+		"reference": "13d6810b-4fe9-46b7-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 21.90761,
+				"y": -72.70912,
+				"z": -2.97043
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "6a987283-e1fa-4360-a499-537cd6952073",
+		"reference": "a7f37c18-300d-4e52-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 13.13292,
+				"y": -68.84741,
+				"z": -13.95482
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "6a987283-e1fa-4360-a499-537cd6952073",
+		"reference": "95b5285e-8915-4a29-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 22.60971,
+				"y": -53.31137,
+				"z": -3.840725
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "6a987283-e1fa-4360-a499-537cd6952073",
+		"reference": "2bee517a-38c6-4558-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 22.57596,
+				"y": -42.13387,
+				"z": -1.448808
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "6a987283-e1fa-4360-a499-537cd6952073",
+		"reference": "30bd0b77-548b-4b3e-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 15.23705,
+				"y": -69.4432,
+				"z": -6.210433
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "6a987283-e1fa-4360-a499-537cd6952073",
+		"reference": "a1c6f209-94bf-473e-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 22.56137,
+				"y": -54.87301,
+				"z": -1.941584
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "6a987283-e1fa-4360-a499-537cd6952073",
+		"reference": "778beba8-94e9-4a56-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 30.01808,
+				"y": -66.89764,
+				"z": -8.991879
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "6a987283-e1fa-4360-a499-537cd6952073",
+		"reference": "1c26c941-d6b9-4f02-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 33.3693,
+				"y": -69.93909,
+				"z": -5.034051
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "33471b70-b7b7-4a8d-8fc4-ba259f796142",
+		"reference": "e8946b8b-3e8d-42c8-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 31.35456,
+				"y": -61.26268,
+				"z": -3.77328
+			},
+			"localRotation": {
+				"x": 0.6589244,
+				"y": 0,
+				"z": 0.2533983,
+				"w": 0.7082429
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "a4dfc2d9-1943-49d8-b038-480c66833178",
+		"reference": "360d9522-bc25-43cb-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 31.39084,
+				"y": -49.13496,
+				"z": -5.216481
+			},
+			"localRotation": {
+				"x": 0.5046045,
+				"y": 0,
+				"z": -0.3425556,
+				"w": 0.7924834
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "a4dfc2d9-1943-49d8-b038-480c66833178",
+		"reference": "2606eea8-3750-4f9b-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 28.44612,
+				"y": -72.18872,
+				"z": -10.5894
+			},
+			"localRotation": {
+				"x": 0.384708,
+				"y": 0,
+				"z": 0.5906093,
+				"w": 0.7093522
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "a4dfc2d9-1943-49d8-b038-480c66833178",
+		"reference": "3c05d8d3-5824-4c21-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 15.87955,
+				"y": -60.32643,
+				"z": -4.362571
+			},
+			"localRotation": {
+				"x": 0.6151894,
+				"y": 0,
+				"z": -0.3450969,
+				"w": 0.7088371
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "a4dfc2d9-1943-49d8-b038-480c66833178",
+		"reference": "4dde8279-7ad3-4aa3-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 23.13572,
+				"y": -58.52639,
+				"z": -1.314021
+			},
+			"localRotation": {
+				"x": 0.6139468,
+				"y": 0,
+				"z": -0.3455638,
+				"w": 0.7096866
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "a4dfc2d9-1943-49d8-b038-480c66833178",
+		"reference": "e8f49972-db98-40fe-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 15.15493,
+				"y": -55.31947,
+				"z": -3.99503
+			},
+			"localRotation": {
+				"x": 0.4895821,
+				"y": 0,
+				"z": 0.06659779,
+				"w": 0.8694102
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "a4dfc2d9-1943-49d8-b038-480c66833178",
+		"reference": "369fa5ad-1450-428a-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 29.25579,
+				"y": -58.06081,
+				"z": -5.742384
+			},
+			"localRotation": {
+				"x": 0.4414969,
+				"y": 0,
+				"z": 0.5578761,
+				"w": 0.7027481
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "8c73c480-6889-4629-8abb-c1535a8b4820",
+		"reference": "b4c72715-b43e-414d-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 13.00832,
+				"y": -48.08676,
+				"z": -6.747786
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "8c73c480-6889-4629-8abb-c1535a8b4820",
+		"reference": "0e34c532-5d93-4f38-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 13.52503,
+				"y": -52.1495,
+				"z": -5.376145
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "8c73c480-6889-4629-8abb-c1535a8b4820",
+		"reference": "cd83238c-c987-49e3-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": -1.982719,
+				"y": -89.96979,
+				"z": -21.20551
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "8c73c480-6889-4629-8abb-c1535a8b4820",
+		"reference": "38d02995-851a-47c6-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": -1.687804,
+				"y": -85.32506,
+				"z": -19.21763
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "8c73c480-6889-4629-8abb-c1535a8b4820",
+		"reference": "0a2ae04a-a8fe-4d8d-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 3.10552,
+				"y": -73.41608,
+				"z": -16.37308
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "8c73c480-6889-4629-8abb-c1535a8b4820",
+		"reference": "376023a4-dbfa-4416-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": -0.880722,
+				"y": -89.96979,
+				"z": -18.01432
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "8c73c480-6889-4629-8abb-c1535a8b4820",
+		"reference": "dcc9257b-f08b-4a93-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 14.0301,
+				"y": -46.86725,
+				"z": -3.389863
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "8c73c480-6889-4629-8abb-c1535a8b4820",
+		"reference": "8d3a2a2a-cd01-4ff0-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": -3.448598,
+				"y": -79.07702,
+				"z": -13.98803
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "8c73c480-6889-4629-8abb-c1535a8b4820",
+		"reference": "6e6dc248-209a-4614-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 1.798678,
+				"y": -70.93198,
+				"z": -11.57092
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "8c73c480-6889-4629-8abb-c1535a8b4820",
+		"reference": "38705a4c-86b9-49de-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 1.612997,
+				"y": -61.79879,
+				"z": -7.59592
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "8c73c480-6889-4629-8abb-c1535a8b4820",
+		"reference": "7ba63677-b7f3-416c-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 30.2348,
+				"y": -55.38805,
+				"z": -4.290648
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "8c73c480-6889-4629-8abb-c1535a8b4820",
+		"reference": "43ea6e0f-35f4-4a39-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 28.49271,
+				"y": -38.84807,
+				"z": -3.440862
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "8c73c480-6889-4629-8abb-c1535a8b4820",
+		"reference": "7b02db0d-b388-4edf-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 16.33533,
+				"y": -34.18852,
+				"z": -0.4800518
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "8c73c480-6889-4629-8abb-c1535a8b4820",
+		"reference": "037819b8-3e32-4a48-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 22.79314,
+				"y": -33.04131,
+				"z": 0.6830776
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "8c73c480-6889-4629-8abb-c1535a8b4820",
+		"reference": "91296523-054e-4875-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 28.08238,
+				"y": -83.90559,
+				"z": -14.03798
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "8c73c480-6889-4629-8abb-c1535a8b4820",
+		"reference": "0ba08944-a605-4e4e-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 24.88745,
+				"y": -66.25397,
+				"z": -14.05826
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "8c73c480-6889-4629-8abb-c1535a8b4820",
+		"reference": "08c10ee8-ba2b-4233-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 23.69806,
+				"y": -49.16388,
+				"z": -14.59083
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "8c73c480-6889-4629-8abb-c1535a8b4820",
+		"reference": "7fe963a9-8d64-47e6-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 23.33856,
+				"y": -57.6577,
+				"z": -18.10416
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "8c73c480-6889-4629-8abb-c1535a8b4820",
+		"reference": "396df792-da2c-46fe-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 43.33846,
+				"y": -72.09221,
+				"z": -13.64336
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "8c73c480-6889-4629-8abb-c1535a8b4820",
+		"reference": "c0e80241-7092-46e7-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 31.1795,
+				"y": -79.71594,
+				"z": -18.3995
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "8c73c480-6889-4629-8abb-c1535a8b4820",
+		"reference": "426007d8-46e3-4678-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 12.75133,
+				"y": -56.71887,
+				"z": -11.28416
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "8c73c480-6889-4629-8abb-c1535a8b4820",
+		"reference": "1956feae-f3b6-418d-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 14.51308,
+				"y": -45.19462,
+				"z": -15.30037
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "8c73c480-6889-4629-8abb-c1535a8b4820",
+		"reference": "f565e6ce-fcad-40e1-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 22.93775,
+				"y": -33.31258,
+				"z": -13.64885
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "8c73c480-6889-4629-8abb-c1535a8b4820",
+		"reference": "4c37ab8d-8b0b-4066-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 16.09847,
+				"y": -32.94012,
+				"z": -6.592285
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "8c73c480-6889-4629-8abb-c1535a8b4820",
+		"reference": "f24ecfaf-115c-4b84-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 27.32096,
+				"y": -45.31409,
+				"z": -10.08941
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "8c73c480-6889-4629-8abb-c1535a8b4820",
+		"reference": "f63b09f1-01cc-4c0f-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 31.8275,
+				"y": -30.81347,
+				"z": -9.542237
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "33471b70-b7b7-4a8d-8fc4-ba259f796142",
+		"reference": "68408ee2-0459-46b8-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 28.78365,
+				"y": -22.3722,
+				"z": -2.555377
+			},
+			"localRotation": {
+				"x": -0.510475,
+				"y": 0,
+				"z": -0.106197,
+				"w": 0.8533098
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "33471b70-b7b7-4a8d-8fc4-ba259f796142",
+		"reference": "3ed6390a-3cba-459e-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 28.86859,
+				"y": -20.92598,
+				"z": -2.438561
+			},
+			"localRotation": {
+				"x": -0.08740006,
+				"y": 0,
+				"z": -0.0177341,
+				"w": 0.9960155
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "f03bf993-1acd-47e5-bd13-b6bb9f393432",
+		"reference": "fffada5b-7583-408e-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 27.99242,
+				"y": -19.68838,
+				"z": -3.552217
+			},
+			"localRotation": {
+				"x": -0.09246096,
+				"y": 0,
+				"z": 0.230669,
+				"w": 0.9686294
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "f03bf993-1acd-47e5-bd13-b6bb9f393432",
+		"reference": "37ced9da-eb29-4202-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 27.42383,
+				"y": -15.00366,
+				"z": -5.908403
+			},
+			"localRotation": {
+				"x": 0.1962067,
+				"y": 0,
+				"z": -0.1011218,
+				"w": 0.9753345
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "f03bf993-1acd-47e5-bd13-b6bb9f393432",
+		"reference": "5f575293-85c3-4abe-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 20.64805,
+				"y": -18.77189,
+				"z": -7.893031
+			},
+			"localRotation": {
+				"x": -0.1071168,
+				"y": 0,
+				"z": -0.3338475,
+				"w": 0.9365212
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "f03bf993-1acd-47e5-bd13-b6bb9f393432",
+		"reference": "a6b9134e-0729-458f-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 22.39853,
+				"y": -17.19267,
+				"z": -7.074674
+			},
+			"localRotation": {
+				"x": 0.3093263,
+				"y": 0,
+				"z": -0.172399,
+				"w": 0.9351983
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "f03bf993-1acd-47e5-bd13-b6bb9f393432",
+		"reference": "76d734e1-70b1-4d6b-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 19.86837,
+				"y": -17.88739,
+				"z": -10.35258
+			},
+			"localRotation": {
+				"x": 0.2192971,
+				"y": 0,
+				"z": -0.6589187,
+				"w": 0.719538
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "f03bf993-1acd-47e5-bd13-b6bb9f393432",
+		"reference": "da2e6344-d0bf-4dcc-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 21.80516,
+				"y": -16.79873,
+				"z": -10.06279
+			},
+			"localRotation": {
+				"x": -0.08396915,
+				"y": 0,
+				"z": -0.495993,
+				"w": 0.864257
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "f03bf993-1acd-47e5-bd13-b6bb9f393432",
+		"reference": "d3c30ccc-36b1-4033-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 18.66921,
+				"y": -16.65458,
+				"z": -6.210576
+			},
+			"localRotation": {
+				"x": 0.5492287,
+				"y": 0,
+				"z": 0.1877543,
+				"w": 0.8143072
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "f03bf993-1acd-47e5-bd13-b6bb9f393432",
+		"reference": "7e0b3cc5-113b-49cd-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 17.16468,
+				"y": -17.15244,
+				"z": -10.97805
+			},
+			"localRotation": {
+				"x": 0.141304,
+				"y": 0,
+				"z": 0.6352178,
+				"w": 0.7592967
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "f03bf993-1acd-47e5-bd13-b6bb9f393432",
+		"reference": "f74efe4d-e361-402f-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 16.18523,
+				"y": -17.40687,
+				"z": -15.2228
+			},
+			"localRotation": {
+				"x": -0.1064757,
+				"y": 0,
+				"z": 0.170169,
+				"w": 0.9796456
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "f03bf993-1acd-47e5-bd13-b6bb9f393432",
+		"reference": "cb895be8-b722-4241-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 12.92228,
+				"y": -17.29913,
+				"z": -14.53371
+			},
+			"localRotation": {
+				"x": -0.08700953,
+				"y": 0,
+				"z": 0.3783644,
+				"w": 0.9215583
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "057bf96c-b164-4235-82ee-420c9f84b86d",
+		"reference": "98841ca2-c556-499b-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 15.59739,
+				"y": -15.08411,
+				"z": -1.697997
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "25445bfd-5e14-4151-ba29-4f7e486c04fd",
+		"reference": "49369575-7610-4cfc-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 16.16517,
+				"y": -14.94475,
+				"z": 0.9884748
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "25445bfd-5e14-4151-ba29-4f7e486c04fd",
+		"reference": "a5ded3bf-8fe7-400a-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 13.4553,
+				"y": -14.74207,
+				"z": -1.215843
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "25445bfd-5e14-4151-ba29-4f7e486c04fd",
+		"reference": "7b274fc8-6ee1-4db4-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 13.93887,
+				"y": -14.58972,
+				"z": 1.026834
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "25445bfd-5e14-4151-ba29-4f7e486c04fd",
+		"reference": "f2f54633-0cd6-4f03-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 13.59835,
+				"y": -14.73256,
+				"z": -0.8291194
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "25445bfd-5e14-4151-ba29-4f7e486c04fd",
+		"reference": "a2228b81-3f94-499c-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 13.97331,
+				"y": -14.77022,
+				"z": -0.6527002
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "25445bfd-5e14-4151-ba29-4f7e486c04fd",
+		"reference": "795dc593-f135-47a6-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 14.43488,
+				"y": -14.66608,
+				"z": 1.069409
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "2db601b5-bace-4c4e-9ffb-e04507add06d",
+		"reference": "ed2afc45-17a9-46bf-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 15.09303,
+				"y": -14.85841,
+				"z": 0.1986337
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "6d6b6f15-b16c-4c7a-9950-fca4f87f9a2a",
+		"reference": "7ebfe514-0805-471a-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 14.74268,
+				"y": -14.81922,
+				"z": 0.08739805
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "6d6b6f15-b16c-4c7a-9950-fca4f87f9a2a",
+		"reference": "39e7a1f3-b420-49e0-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 14.27466,
+				"y": -14.64884,
+				"z": 1.003542
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "6d6b6f15-b16c-4c7a-9950-fca4f87f9a2a",
+		"reference": "58fb2567-8715-4564-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 13.40205,
+				"y": -14.65008,
+				"z": -0.08171415
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "2db601b5-bace-4c4e-9ffb-e04507add06d",
+		"reference": "12245d7a-4251-4a2e-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 13.62072,
+				"y": -14.72412,
+				"z": -0.6755668
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "2db601b5-bace-4c4e-9ffb-e04507add06d",
+		"reference": "699812f6-7ec8-4db9-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 13.76146,
+				"y": -14.66868,
+				"z": 0.3214498
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "2db601b5-bace-4c4e-9ffb-e04507add06d",
+		"reference": "f85ecc29-0f2b-4623-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 14.00401,
+				"y": -14.93299,
+				"z": -2.139701
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "aa5bb8d8-fd1b-4902-83a9-94b375d0d0dc",
+		"reference": "25cf515d-d69f-4fd8-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 12.8174,
+				"y": -14.62809,
+				"z": -0.8481727
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "aa5bb8d8-fd1b-4902-83a9-94b375d0d0dc",
+		"reference": "c3796402-519a-40a4-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 13.79518,
+				"y": -14.78943,
+				"z": -1.232805
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "aa5bb8d8-fd1b-4902-83a9-94b375d0d0dc",
+		"reference": "25a27fd1-93be-4f6c-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 13.3861,
+				"y": -14.6748,
+				"z": -0.4413493
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "aa5bb8d8-fd1b-4902-83a9-94b375d0d0dc",
+		"reference": "e72ab807-a920-42ae-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 13.13366,
+				"y": -14.73974,
+				"z": -1.740195
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "aa5bb8d8-fd1b-4902-83a9-94b375d0d0dc",
+		"reference": "51872fd6-45c0-43da-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 13.57501,
+				"y": -14.8231,
+				"z": -1.855833
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "aa5bb8d8-fd1b-4902-83a9-94b375d0d0dc",
+		"reference": "4ac66b25-e702-48e5-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 12.65298,
+				"y": -14.65142,
+				"z": -1.458511
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "5fefc2c2-794c-487c-b127-5892aacbe458",
+		"reference": "07a1e12a-2429-4a2f-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 14.34509,
+				"y": -14.8166,
+				"z": -0.5988008
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "5fefc2c2-794c-487c-b127-5892aacbe458",
+		"reference": "c9dd101e-9852-4561-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 12.90366,
+				"y": -14.58694,
+				"z": -0.141171
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "5fefc2c2-794c-487c-b127-5892aacbe458",
+		"reference": "8957ffd3-00ad-4286-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 13.52718,
+				"y": -14.65362,
+				"z": 0.09796619
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "75d9c0ba-c732-4e59-ac64-5bcf19e0c2df",
+		"reference": "c2d094dd-1df0-408e-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 13.19258,
+				"y": -14.37326,
+				"z": -0.5581384
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "75d9c0ba-c732-4e59-ac64-5bcf19e0c2df",
+		"reference": "378bc351-a5c5-4263-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 13.49868,
+				"y": -14.75377,
+				"z": -1.610988
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "75d9c0ba-c732-4e59-ac64-5bcf19e0c2df",
+		"reference": "85841840-784e-4f04-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 12.73744,
+				"y": -14.56933,
+				"z": -0.2070682
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "d3d2812a-447f-41d7-b412-08d8b21336af",
+		"reference": "58d83306-f7fc-411c-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 15.6114,
+				"y": -15.00199,
+				"z": -0.7818019
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "d3d2812a-447f-41d7-b412-08d8b21336af",
+		"reference": "edf54ffe-f9e0-4008-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 14.96819,
+				"y": -15.08141,
+				"z": -2.214533
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "d3d2812a-447f-41d7-b412-08d8b21336af",
+		"reference": "26bc8e81-2da7-4108-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 12.25297,
+				"y": -14.52475,
+				"z": -0.4895673
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "562456b5-3835-469a-9286-d4221b0b4d26",
+		"reference": "69ee3d28-2f1a-4c91-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 12.91027,
+				"y": -14.8294,
+				"z": -2.443789
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "562456b5-3835-469a-9286-d4221b0b4d26",
+		"reference": "3400f985-267d-4804-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 12.51588,
+				"y": -16.3449,
+				"z": -2.108408
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "562456b5-3835-469a-9286-d4221b0b4d26",
+		"reference": "5b4e6f98-5c2e-4c4e-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 13.59885,
+				"y": -14.94211,
+				"z": -2.537515
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "562456b5-3835-469a-9286-d4221b0b4d26",
+		"reference": "6b302c87-4a57-4ba7-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 14.31438,
+				"y": -15.0506,
+				"z": -2.583098
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "562456b5-3835-469a-9286-d4221b0b4d26",
+		"reference": "c60fb993-f0c2-4af3-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 15.25638,
+				"y": -14.79263,
+				"z": 1.772434
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	},
+	{
+		"prefab": "562456b5-3835-469a-9286-d4221b0b4d26",
+		"reference": "50221e66-4c35-4f9e-0000-000000000000",
+		"Transform": {
+			"localPosition": {
+				"x": 15.82031,
+				"y": -14.86716,
+				"z": 1.686542
+			},
+			"localRotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"w": 1
+			},
+			"localScale": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	}
+]
